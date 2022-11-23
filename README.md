@@ -18,7 +18,6 @@ With the number of rides and the average fare for each city type, V. Isualize wa
 
 ![image](https://github.com/hansonj34/PyBer_Analysis/blob/main/Resources/Fig 8.png)
 
-
 ### Average number of rides between each city type
 
 If we compare the average number of rides between each city type, we notice that the average number of rides in the rural cities is about 4 and 3.5 times lower than urban and suburban cities, respectively. However, an outlier in the urban ride count data has influenced the result.
