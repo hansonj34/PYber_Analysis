@@ -5,10 +5,12 @@ Performing an exploratory analysis and developing visualizations using the PyBer
 
 The PyBer Summary provides an overview of the statistics demonstrating that the urban demand, 68.4 %,1624 rides is considerably higher than the suburban cities, 26.3%, with 926 rides, and rural cities at, 5.3%, 125 rides. The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period. On a similar pattern, there was also a larger volume of drivers in urban cities compared to suburban and rural cities. There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure below depicts the significance of drivers in urban cities during this time period.
 
+![image](https://github.com/hansonj34/PyBer_Analysis/blob/main/Resources/Fig6.png)
+
 
 On a similar pattern, there was also a larger volume of drivers in urban cities compared to suburban and rural cities. There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities. Again, the figure below depicts the significance of drivers in urban cities during this time period.
 
-
+![image](https://github.com/hansonj34/PyBer_Analysis/blob/main/Resources/Fig7.png)
 
 ## Results
 ### Average number of drivers for each city type:
