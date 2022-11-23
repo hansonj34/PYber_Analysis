@@ -1,5 +1,5 @@
 # PyBer_Analysis
-## Overview of the Analysis: Explain the purpose of the new analysis
+## Overview of the Analysis:
 
 Performing an exploratory analysis and developing visualizations using the PyBer data to facilitate the need for access to services and assess affordability to the under-served neighborhoods. The data vizualization will allow for quick understanding of our findings as well as the ability to detect patterns, trends, and correlations. The data analysis time frame was from January to early May of 2019.
 
