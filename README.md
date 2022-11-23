@@ -16,7 +16,7 @@ On a similar pattern, there was also a larger volume of drivers in urban cities 
 ### Average number of drivers for each city type:
 With the number of rides and the average fare for each city type, V. Isualize wants to see how the rides and fare data stack are affected by the average number of drivers for each city type. This will help V. Isualize make key decisions about where resources and support are needed. It is my understanding that V. Isualize came up with the color scheme herself back in the first few days of the company: gold for profitability, sky blue for strategy, and coral because she loves the ocean! So, of course, we implamented this fact.
 
-
+![image](https://github.com/hansonj34/PyBer_Analysis/blob/main/Resources/Fig8.png)
 
 
 
